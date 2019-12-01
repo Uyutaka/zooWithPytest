@@ -16,7 +16,7 @@ Based on [this code](https://github.com/sanikadongre/OOAD_F19_Homeworks_Projects
 ![time](wakatime.jpg)
 
 ### UML
-![uml](Class Diagram for Zoo Program.jpg)
+![uml](uml.jpg)
 
 ### The way to run tests
 ```
