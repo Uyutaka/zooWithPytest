@@ -18,6 +18,9 @@ Based on [this code](https://github.com/sanikadongre/OOAD_F19_Homeworks_Projects
 ### UML
 ![uml](uml.jpg)
 
+### Pytest
+![pytest](pytest.jpg)
+
 ### The way to run tests
 ```
 pytest
